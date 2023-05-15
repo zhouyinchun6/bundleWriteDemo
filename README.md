@@ -36,7 +36,7 @@ BundleInit.inject(this);
 String name;
 
 ## ***合作及使用问题请联系
-![](/pic/wx_me.jpg)
+![](/pic/wx_me.jpeg)
 
 
 
