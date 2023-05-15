@@ -40,6 +40,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     //依赖
     implementation 'com.github.zhouyinchun6:BundleWrite:9.6'
-    implementation 'com.github.zhouyinchun6:bundleWrite-init:1.3'
+    implementation 'com.github.zhouyinchun6:bundleWrite-init:1.4'
     kapt 'com.github.zhouyinchun6:bundleWrite-processor:1.0'
 }
