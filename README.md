@@ -11,7 +11,7 @@ allprojects {
   
 app的下build.gradle添加:  
 implementation 'com.github.zhouyinchun6:BundleWrite:9.6'  
-implementation 'com.github.zhouyinchun6:bundleWrite-init:1.2'  
+implementation 'com.github.zhouyinchun6:bundleWrite-init:1.3'  
 kapt 'com.github.zhouyinchun6:bundleWrite-processor:1.0'  
 ## 使用 ( 支持int、long、float、double、boolean、String、Serializable、Parcelable参数注解；1、属性不能被private修饰；2、kotlin代码还需加@JvmField,否则编译不过)
 ### 获取intent中的name值
