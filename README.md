@@ -35,8 +35,8 @@ BundleInit.inject(this);
 @WriteBundle    
 var name: String = "默认值"
 
-## 合作及使用问题请联系
-![](/pic/wx_me.jpeg)
+## 联系方式及反馈
+邮箱：1525590155@qq.com
 
 
 
