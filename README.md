@@ -33,7 +33,7 @@ BundleInit.inject(this);
 ### 例如
 @JvmField  
 @WriteBundle    
-String name;
+var name: String = "默认值";
 
 ## 合作及使用问题请联系
 ![](/pic/wx_me.jpeg)
